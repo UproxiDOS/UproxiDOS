@@ -1,2 +1,4 @@
 # UproxiDOS
-The UproxiDOS System
+A Command-Line OS Based off Cosmos.
+
+
